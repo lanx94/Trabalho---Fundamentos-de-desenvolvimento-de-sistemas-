@@ -1,0 +1,82 @@
+body 
+{
+    background-color: rgb(185, 219, 238);
+    margin: 20px;
+   
+    
+}
+.imagemTabela
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+td
+{
+    width: 200px;
+}
+h1
+{
+    color: rgb(8, 131, 168);
+    text-align: center;
+}
+h2
+{
+    color: rgb(8, 131, 168);
+    text-align: center;
+}
+h3
+{
+    color: rgb(8, 131, 168);
+    text-align: center;
+}
+h4
+{
+    color: rgb(8, 131, 168);
+    text-align: center;
+}
+p
+{
+    color: rgb(80, 79, 79);
+    text-align: justify;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lista li
+{
+    margin-bottom: 10px;
+}
+.tabelacentro
+{
+    border: 1px solid #9c9b9b;
+    width: 50%;
+    margin: 0 auto;
+    
+}
+.cliquelink
+{
+    color: #007bff;
+}
+.cliquelink:hover
+{
+    color: #0bb90b;
+}
+button
+{
+    background-color: #f0a5a5;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.fraseefeito
+{
+    font-size:x-large;
+}
+.imagemhobbie
+{
+    max-width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
